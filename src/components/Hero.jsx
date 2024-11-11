@@ -1,4 +1,4 @@
-import { ButtonPrimary, ButtonOutline } from "./Button";
+import { ButtonPrimary } from "./Button";
 
 const Hero = () => {
     return (
@@ -40,12 +40,6 @@ const Hero = () => {
                         <ButtonPrimary 
                         label="Download CV"
                         icon="download"
-                        />
-                        
-                        <ButtonOutline 
-                        href="#about"
-                        label="Scroll down"
-                        icon="arrow_downward"
                         />
                     </div>
                 </div>
