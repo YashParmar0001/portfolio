@@ -1,26 +1,30 @@
 module.exports = {
-  email: 'brittany.chiang@gmail.com',
+  email: 'yashp758820@gmail.com',
 
   socialMedia: [
     {
       name: 'GitHub',
-      url: 'https://github.com/bchiang7',
-    },
-    {
-      name: 'Instagram',
-      url: 'https://www.instagram.com/bchiang7',
+      url: 'https://github.com/YashParmar0001',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/bchiang7',
+      url: 'https://x.com/yashparmar75',
     },
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/bchiang7',
+      url: 'https://www.linkedin.com/in/yash-parmar-b34b90220/',
     },
     {
-      name: 'Codepen',
-      url: 'https://codepen.io/bchiang7',
+      name: 'Freelancer',
+      url: 'https://www.freelancer.com/u/yashp7588',
+    },
+    {
+      name: 'Fiverr',
+      url: 'https://www.fiverr.com/yashp7588?up_rollout=true',
+    },
+    {
+      name: 'UpWork',
+      url: 'https://www.upwork.com/freelancers/~0100764bb9e52b2805?mp_source=share',
     },
   ],
 

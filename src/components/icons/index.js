@@ -14,3 +14,6 @@ export { default as IconLogo } from './logo';
 export { default as IconPlayStore } from './playstore';
 export { default as IconStar } from './star';
 export { default as IconTwitter } from './twitter';
+export { default as IconFreelancer } from './freelancer';
+export { default as IconFiverr } from './fiverr';
+export { default as IconUpWork } from './upwork';
