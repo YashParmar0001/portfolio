@@ -5,7 +5,7 @@ module.exports = {
     title: 'Yash Parmar',
     description:
       'Yash Parmar is a software engineer who specializes in building (and occasionally designing) exceptional digital experiences for mobile.',
-    siteUrl: 'https://brittanychiang.com',
+    siteUrl: 'https://yash-parmar.netlify.app',
     image: '/og.png', // Path to your image you placed in the 'static' folder
     twitterUsername: '@yashparmar75',
   },
