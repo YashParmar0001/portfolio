@@ -2,7 +2,7 @@
 date: '3'
 title: 'GDSC Atmiya'
 cover: './thumb.png'
-github: 'https://github.com/YashParmar0001/gdsc-app?tab=readme-ov-file#gdsc-atmiya'
+github: 'https://github.com/YashParmar0001/gdsc-app-rebase?tab=readme-ov-file#gdsc-atmiya'
 external: ''
 tech:
   - Flutter

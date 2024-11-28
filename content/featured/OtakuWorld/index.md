@@ -7,7 +7,7 @@ external: ''
 tech:
   - Flutter
   - GraphQL
-  - AniList API
+  - AniList-API
   - BLoC
   - Firebase
   - Deep Links
