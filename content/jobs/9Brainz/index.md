@@ -1,13 +1,14 @@
 ---
 date: '2024-11-26'
-title: 'Flutter Developer Intern'
-company: '9Brainz'
+title: 'Mobile App Developer'
+company: 'FactoHR'
 location: 'Rajkot, Gujarat'
-range: 'May - October 2024'
-url: 'https://9brainz.com/'
+range: 'December 2024 - Present'
+url: 'https://factohr.com/'
 ---
 
-- Developed and maintained multiple applications using Flutter, ensuring high performance and responsiveness across various devices.
-- Utilized GetX for efficient state management, enhancing app stability and reducing development time.
-- Collaborated with a team of developers, designers, and product managers to deliver high-quality applications that meet client specifications and deadlines.
-- Implemented RESTful APIs to enable seamless data integration and communication between the app and backend services.
+- Developing and enhancing FactoHR, a hybrid HRMS platform (500K+ active users), working across Flutter and native (Java/Swift) codebases.
+- Led improvements in key modules including Travel Expense, Document Management, and Employee Punch systems.
+- Designed and implemented offline punch functionality with local SQLite storage and background sync, ensuring seamless attendance tracking during network/server outages.
+- Optimized the Admin Kiosk App for face-recognition-based attendance, improving camera and recognition by shifting from Flutter to native APIs, achieving 70% performance improvement.
+- Scaled admin app adoption to 1,500+ daily active users, supporting organizational growth in attendance automation.

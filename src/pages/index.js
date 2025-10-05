@@ -1,7 +1,7 @@
 import React from 'react';
 import PropTypes from 'prop-types';
 import styled from 'styled-components';
-import { Layout, Hero, About, Featured, Projects, Contact } from '@components';
+import { Layout, Hero, About, Featured, Projects, Contact, Jobs } from '@components';
 import { Toaster } from 'react-hot-toast';
 
 const StyledMainContainer = styled.main`
@@ -33,7 +33,7 @@ const IndexPage = ({ location }) => (
       />
       <Hero />
       <About />
-      {/* <Jobs /> */}
+      <Jobs />
       <Featured />
       <Projects />
       <Contact />
